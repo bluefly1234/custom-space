@@ -3,6 +3,6 @@ module.exports = {
         assetsPublicPath: '/',
     },
     production: {
-        assetsPublicPath: 'http://localhost:9001/',
+        assetsPublicPath: '/',
     }
 }
